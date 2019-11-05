@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Shrimpy</string>
+    <string name="penanganan">Penanganan</string>
+    <string name="kalkulator">Kalkulator</string>
+    <string name="manajemen">Manajemen</string>
+    <string name="calculation">Calculation</string>
+    <string name="kalkulator_pengapuran">Kalkulator Pengapuran</string>
+    <string name="kalkulator_penaburan">Kalkulator Penaburan</string>
+    <string name="fcr">FCR</string>
+    <string name="penjatahan_pangan">Penjatahan Pangan</string>
+    <string name="pemupukan">Pemupukan</string>
+    <string name="ppm">PPM</string>
+    <string name="hitung">Hitung</string>
+    <string name="ph">pH</string>
+    <string name="manfaat_pengapuran"><![CDATA[<ul>
+        <li> Meningkatkan pH tanah</li>
+        <li> Mempercepat proses penguraian bahan organik.</li>
+        <li> Mengikat gas asam arang(CO2) yang dihasilkan oleh pembusukan bahan organik dan pernafasan biota air.</li>
+        <li> Mematikan bakteri dan parasit.</li>
+        <li> Mengikat partikel-partikel</li>
+    </ul>]]>
+    </string>
+    <string name="catatan_penebaran_isi"><![CDATA[<ul>
+        <li> Penebaran benur dilakukan setelah air dalam tambak siap, ditandai dengan warna hijau cerah/cokelat muda.</li>
+        <li> Penebaran diawali dengan proses aklimatisasi suhu media angkut benur dengan cara mengapungkan kantong plastik ke perairan tambak. </li>
+        <li> Adaptasi salinitas dengan cara memasukkan air tambak ke dalam kantong plastik secara bertahap, hingga salinitas air dalam kantong plastik relatif sama dengan salinitas air di tambak.</li>
+        <li> Pelepasan benur ke tambak dengan menenggelamkan kantong plastik ke air tambak secara perlahan. Benur keluar dengan sendirinya ke air tambak. Sisa benur yang tidak keluar dari kantong, dibantu pengeluarannya secara hati-hati.</li>
+        <li> Penebaran benur tidak dilakukan pada area tambak yang tidak terdapat arus (titik mati).</li>
+    </ul>]]>
+    </string>
+    <string name="manfaat_pengapuran_title">Manfaat Pengapuran</string>
+    <string name="cara_ukur_ph_tanah_pada_beberapa_titik_yang_berbeda_menggunakan_alat_ukur_ph_ph_soil_tester">Cara : ukur pH tanah pada beberapa titik yang berbeda menggunakan alat ukur pH (pH soil tester)</string>
+    <string name="catatan_penebaran">Catatan Penebaran</string>
+    <string name="manfaat_pemupukan"><![CDATA[
+        <ul>
+        <li> Memperbaiki kualitas air</li>
+        <li> Meningkatkan suplai pakan alami berupa plankton (mengurangi ransum pakan buatan)</li>
+    </ul>]]></string>
+    <string name="tujuan_pemupukan">Tujuan Pemupukan</string>
+    <string name="aturan_pemupukan"><![CDATA[
+        <ul>
+        <li> Tambak dengan dasar berpasir sebaiknya menggunakan pupuk organik (kompos atau komersial).</li>
+        <li> Jika air tambak berkadar garam rendah (kurang dari 15 ppt) perlu ditambahkan KCL sebanyak 1 ppm dengan frekuensi pemberian seminggu sekali.</li>
+        <li> Pemupukan dengan pupuk nitrat (N) dan fosfat (P) dilakukan secara langsung ke tanah dasar tambak. Perbandingan kandungan <b>N : P</b> rasio (nitrogen dan fosfat) yaitu <b>1 : 4 atau 1 : 6</b>, dosis pemupukan minimal <b>1 ppm untuk pupuk Sp36</b>.</li>
+    </ul>]]></string>
+    <string name="aturan_pemupukan_title">Aturan :</string>
+    <string name="m_kedalaman_kolam">m kedalaman kolam</string>
+    <string name="ukuran_udang">Ukuran udang :</string>
+    <string name="bentuk_pakan">Bentuk pakan :</string>
+    <string name="ketentuan_pemberian_pakan">Ketentuan Pemberian Pakan</string>
+    <string name="ketentuan_pemberian_pakan_isi"><![CDATA[
+        <ul>
+        <li> Semua kincir dimatikan 15 menit sebelum dilakukan penebaran pakan, </li>
+        <li> Pakan berbentuk tepung harus dibasahi terlebih dahulu agar tidak terbawa angin, </li>
+        <li> Pakan ditebar secara merata, </li>
+        <li> Hindari penebaran pakan pada daerah penumpukan bahan organik (titik mati). </li>
+    </ul>]]></string>
+    <string name="makan_card">Manajemen pemberian pakan yang tepat, sesuai dengan laju konsumsi dan laju pertumbuhan yang ditentukan dengan metode sampling pertumbuhan untuk menekan FCR (Food Conversion Ratio).</string>
+    <string name="pupuk_tv_title">Hitungan untuk pupuk Sp36 :</string>
+    <string name="apa_itu_ppm">Apa itu ppm?</string>
+    <string name="ppm_desc">ppm (Part Per Million) adalah satuan \'per sejuta bagian\', dalam penerapannya digunakan miligram/kilogram atau miligram/liter atau gram/m3</string>
+    <string name="contoh_ppm">Contoh: untuk dosis 5 ppm berarti aplikasi sebanyak 5 gr/m3 air atau untuk tambak tambak 1 ha dengan ketinggian air 1 m diperlukan bahan sebanyak 50 kg.</string>
+    <string name="dosis_ppm">Dosis ppm</string>
+    <string name="simulasi_ppm_title">Simulasi hitung kilogram bahan</string>
+    <string name="menghitung_food_convention_ratio_fcr">Menghitung Food Convention Ratio (FCR)</string>
+    <string name="gram_panen">gram panen</string>
+    <string name="gram_pakan">gram pakan</string>
+    <string name="menghitung_perkiraan_panen">Menghitung perkiraan panen</string>
+    <string name="menghitung_perkiraan_pakan">Menghitung perkiraan pakan</string>
+    <string name="ekspektasi_panen">Ekspektasi panen</string>
+    <string name="tindakan_koreksi">Tindakan Koreksi</string>
+    <string name="less_do_solution">DO kurang : Tambahkan kincir, penambahan dan atau penggantian air baru. Dalam kondisi darurat dapat dilakukan tindakan penambahan hidrogen peroksida, pemberian dilakukan secara berulang setiap 2 jam sampai kadar oksigen stabil</string>
+    <string name="optimal">Optimal</string>
+    <string name="less_ph_sol">pH rendah: Lakukan pengapuran sampai pH optimum</string>
+    <string name="toleransi">Toleransi</string>
+    <string name="more_ph_sol">pH tinggi : lakukan penggantian air secara bertahap</string>
+    <string name="brightness_low_sol">Kecerahan di bawah 20 : Lakukan penambahan air/pengenceran</string>
+    <string name="brightness_more_sol">Kecerahan di atas 40 : lakukan pemupukan susulan.</string>
+    <string name="low_salinity_sol">Salinitas rendah yang menyebabkan udang kram (bengkok dan berwarna putih) : Lakukan pemberian KCl dengan dosis 1 ppm</string>
+    <string name="high_salinity">Salinitas tinggi</string>
+    <string name="low_temp">Suhu terlalu rendah</string>
+    <string name="high_temp">Suhu terlalu tinggi</string>
+    <string name="water_sol">Lakukan tindakan sesuai warna air</string>
+    <string name="delete_item">Delete item</string>
+</resources>

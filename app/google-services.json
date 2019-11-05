@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034567246266",
+    "firebase_url": "https://shrimpy-807dc.firebaseio.com",
+    "project_id": "shrimpy-807dc",
+    "storage_bucket": "shrimpy-807dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034567246266:android:d4804091e797a49d",
+        "android_client_info": {
+          "package_name": "com.uin.millatip.shrimpy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034567246266-ir157ou8uuclh5cfom3lld191v4vhjf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uin.millatip.shrimpy",
+            "certificate_hash": "47c339f3120289e30fc4e5fda69c83fcd40eb052"
+          }
+        },
+        {
+          "client_id": "1034567246266-pot6j1dgjm5tbo3qvtvv14rg2jo6sjqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrsctBE45SwKHsebgtzDbWF7P8ZsnOa80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034567246266-pot6j1dgjm5tbo3qvtvv14rg2jo6sjqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

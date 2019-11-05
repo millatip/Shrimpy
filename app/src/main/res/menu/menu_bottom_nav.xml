@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/action_solution"
+            android:title="@string/penanganan"
+            android:icon="@drawable/shrimp"/>
+
+    <item android:id="@+id/action_calculate"
+          android:title="@string/kalkulator"
+          android:icon="@drawable/accounting"/>
+
+    <item
+            android:id="@+id/action_manage"
+            android:title="@string/manajemen"
+            android:icon="@drawable/notepad"/>
+
+
+</menu>
